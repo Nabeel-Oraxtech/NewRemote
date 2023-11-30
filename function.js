@@ -4,4 +4,4 @@ function fac(n){
   else {
     return n*fac(n-1)}
 }
-console.log(fac(5))
+console.log(fac(7))
