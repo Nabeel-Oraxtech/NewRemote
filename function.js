@@ -4,4 +4,8 @@ function fac(n){
   else {
     return n*fac(n-1)}
 }
+<<<<<<< HEAD
 console.log(fac(7))
+=======
+console.log(fac(3))
+>>>>>>> bugs
