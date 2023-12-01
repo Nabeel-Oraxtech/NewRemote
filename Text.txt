@@ -1,2 +1,2 @@
 hello its a dummy text file
-hello their
+hello their is the text.
